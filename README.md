@@ -1,2 +1,2 @@
 # summer_analytics
-assignments
+all assignments of summer analytics 2019
